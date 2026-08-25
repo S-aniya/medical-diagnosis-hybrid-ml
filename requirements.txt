@@ -4,3 +4,4 @@ scikit-learn
 pandas
 numpy
 joblib
+secret = "this is the secret API"
